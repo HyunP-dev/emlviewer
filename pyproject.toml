@@ -1,0 +1,9 @@
+[project]
+name = "emlviewer"
+version = "20260116"
+description = "EML Viewer"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "pyside6>=6.10.1",
+]
